@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    margin: 10px;
+    background-color:#DDDD;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+}
+input{
+    background-color: white;
+    border: white;
+    height: 40px;
+    width: 80PX;
+}

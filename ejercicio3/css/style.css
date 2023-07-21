@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 200vh;
+}
+div{
+    display: flex;
+    justify-content: center;
+    background-color: #dddd;
+    width: 500px;
+    height: 300px;
+    padding: 60px;
+    flex-direction: column;
+    justify-content: center;
+}
+.titulo{
+    padding: 10px;
+    margin: 10px;
+    align-content: flex-start;
+}
+.parrafo{
+    padding: 10px;
+    margin: 10px;
+}
